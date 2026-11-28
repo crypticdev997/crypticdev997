@@ -1,5 +1,5 @@
 {
- "key": "bacd882b",
+ "key": "bcebb0a",
  "stars": 0,
  "contributions": 7,
  "repos": 2,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
